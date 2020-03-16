@@ -18,7 +18,7 @@ by Dan Bader](https://drive.google.com/open?id=1_noKpcCzXTuhcAXDkmOrBHe-zwWS8Sjc
 
 # MOOCs
 
-1. [Crash Course on Python by Google](https://www.coursera.org/learn/python-crash-course)
+1. Coursera [Crash Course on Python by Google](https://www.coursera.org/learn/python-crash-course)
 2. Sentdex [Learning to program with Python 3 (py 3.7)](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
 3. The boston academy[Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 
