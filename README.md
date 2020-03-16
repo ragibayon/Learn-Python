@@ -16,11 +16,16 @@ by Zed Shaw ](https://drive.google.com/open?id=1NIT3r3x0jQMrGM0qYqiZMlaE6gg7cBQJ
 2. [Python Tricks: A Buffet of Awesome Python Features
 by Dan Bader](https://drive.google.com/open?id=1_noKpcCzXTuhcAXDkmOrBHe-zwWS8Sjc)
 
+# Text Book (MIT open courseware)
+
+1. [Introduction to Computation and Programming Using Python, Second Edition With Application to Understanding Data](https://drive.google.com/open?id=19yej_FsWr_QWwC2t22XfCHwRluD-Ptac)
+
 # MOOCs
 
 1. Coursera [Crash Course on Python by Google](https://www.coursera.org/learn/python-crash-course)
-2. Sentdex [Learning to program with Python 3 (py 3.7)](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
-3. The boston academy [Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+2. MIT [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm)
+3. Sentdex [Learning to program with Python 3 (py 3.7)](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
+4. The boston academy [Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 
 # For PCAP Certification
 
