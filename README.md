@@ -15,3 +15,17 @@ by Zed Shaw ](https://drive.google.com/open?id=1NIT3r3x0jQMrGM0qYqiZMlaE6gg7cBQJ
 1. [Python Cookbook, Third edition by David Beazley and Brian K. Jones](https://drive.google.com/open?id=1-MLMxkKd028kFQ2rjWIwFsdJC_u9mH4u)
 2. [Python Tricks: A Buffet of Awesome Python Features
 by Dan Bader](https://drive.google.com/open?id=1_noKpcCzXTuhcAXDkmOrBHe-zwWS8Sjc)
+
+# MOOCs
+
+1. [Crash Course on Python by Google](https://www.coursera.org/learn/python-crash-course)
+2. Sentdex [Learning to program with Python 3 (py 3.7)](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
+3. The boston academy[Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+
+# For PCAP Certification
+
+1. [PCAP: Programming Essentials in Python By Cisco Networking Academy in collaboration with OpenEDG Python Institute](https://www.netacad.com/courses/programming/pcap-programming-essentials-python)
+
+# Certification exams
+1. [OpenEDG Python Institute Certifications](https://pythoninstitute.org/certification/)
+2. [Exam 98-381: Introduction to Programming Using Python](https://www.microsoft.com/en-us/learning/exam-98-381.aspx)
