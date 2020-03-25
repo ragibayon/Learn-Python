@@ -27,7 +27,7 @@ by Dan Bader](https://drive.google.com/open?id=1_noKpcCzXTuhcAXDkmOrBHe-zwWS8Sjc
 3. Sentdex [Learning to program with Python 3 (py 3.7)](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
 4. [Intermediate Python Programming-Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_)
 5. The boston academy [Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
-6. [Python GUI with Tkinter Playlist](https://sonarlearning.co.uk/coursepage.php?topic=desktop&course=python-gui) [alternative] (https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d)
+6. [Python GUI with Tkinter Playlist](https://sonarlearning.co.uk/coursepage.php?topic=desktop&course=python-gui)[alternative] (https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d)
 
 # For PCAP Certification
 
