@@ -37,3 +37,7 @@ by Dan Bader](https://drive.google.com/open?id=1_noKpcCzXTuhcAXDkmOrBHe-zwWS8Sjc
 # Certification exams
 1. [OpenEDG Python Institute Certifications](https://pythoninstitute.org/certification/)
 2. [Exam 98-381: Introduction to Programming Using Python](https://www.microsoft.com/en-us/learning/exam-98-381.aspx)
+
+# Online Practice
+1. [Toph](https://toph.co/)
+2. [Codeforces](https://codeforces.com/)
