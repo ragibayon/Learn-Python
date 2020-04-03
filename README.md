@@ -9,6 +9,7 @@
 4. [Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners by Al Sweigart](https://drive.google.com/open?id=1SSXPc23IMPGupE37QrrhVbcNhuwMNUiY)
 5. [Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaw's Hard Way Series)
 by Zed Shaw ](https://drive.google.com/open?id=1NIT3r3x0jQMrGM0qYqiZMlaE6gg7cBQJ)
+6. [পাইথন প্রোগ্রামিং পাইথন দিয়ে প্রোগ্রামিং শেখার ফ্রি বাংলা বই - তামিম শাহরিয়ার সুবিন](http://pybook.subeen.com/%e0%a6%b2%e0%a7%87%e0%a6%96%e0%a6%95-%e0%a6%aa%e0%a6%b0%e0%a6%bf%e0%a6%9a%e0%a6%bf%e0%a6%a4%e0%a6%bf/)
 
 # Ebooks for Intermediet
 
