@@ -32,8 +32,7 @@ by Dan Bader](https://drive.google.com/open?id=1_noKpcCzXTuhcAXDkmOrBHe-zwWS8Sjc
 2. MIT [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm)
 3. Sentdex [Learning to program with Python 3 (py 3.7)](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
 4. Sentdex [Intermediate Python Programming](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_)
-5. The boston academy [Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
-6. The boston academy [Python GUI with Tkinter](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d)
+5. Udemy [Automate the Boring Stuff with Python](https://www.udemy.com/course/automate/)
 
 ## For PCAP Certification
 
